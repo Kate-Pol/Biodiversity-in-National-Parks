@@ -14,3 +14,13 @@ After you perform your analysis, you will share your findings about the National
 We have to download all nessessary files form the website, for farther review and data analysis.
 Download files from from biodiversity.zip and make sure our directory is set up for Jupyter notebook.
 
+Double-click on it to “unzip” the folder. It should contain several items:
+
+- Observations.csv
+- Species_info.csv
+- Biodiversity.ipynb
+
+In the command line, navigate into the your venv folder, and activate Scripts folder. For required libraries you can use reference file. 
+Then novigate into unzipped file directory.
+
+Type the following into the command line: jupyter notebook This should open a browser tab.
