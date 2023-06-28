@@ -24,3 +24,15 @@ In the command line, navigate into the your venv folder, and activate Scripts fo
 Then novigate into unzipped file directory.
 
 Type the following into the command line: jupyter notebook This should open a browser tab.
+
+### 2.Setting up your Git Repository
+---
+Create a new Git repository for this project.
+
+If you need more guidance, review the GitHub Desktop article and additional help on this Git cheat sheet.
+
+Main components that you will want to include:
+
+Jupyter Notebook
+
+CSV data file(s)
