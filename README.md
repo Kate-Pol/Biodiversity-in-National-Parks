@@ -25,7 +25,7 @@ Then novigate into unzipped file directory.
 
 Type the following into the command line: jupyter notebook This should open a browser tab.
 
-### 2.Setting up your Git Repository
+### 2. Setting up your Git Repository
 ---
 Create a new Git repository for this project.
 
