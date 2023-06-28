@@ -33,6 +33,6 @@ If you need more guidance, review the GitHub Desktop article and additional help
 
 Main components that you will want to include:
 
-Jupyter Notebook
+- Jupyter Notebook
 
-CSV data file(s)
+- CSV data file(s)
