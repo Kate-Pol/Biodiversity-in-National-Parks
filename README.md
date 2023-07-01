@@ -37,7 +37,7 @@ Main components that you will want to include:
 
 - CSV data file(s)
 
-### 3.Project Scoping
+### 3. Project Scoping
 ---
 Properly scoping your project will greatly benefit you; scoping creates structure while requiring you to think through your entire project before you begin. You should start with stating the goals for your project, then gathering the data, and considering the analytical steps required. A proper project scope can be a great road map for your project, but keep in mind that some down-stream tasks may become dead ends which will require adjustment to the scope.
 
@@ -45,7 +45,7 @@ Hint:
 
 Here is University of Chicago’s Data Science Project Scoping Guide.
 
-### 4.Load the Data
+### 4. Load the Data
 ---
 You have been given two CSV files:
 
@@ -68,7 +68,7 @@ park_name - Park where species were found
 observations - the number of times each species was observed at park
 Read over the pandas read_csv documentation for a refresher on how to load and look at the dataset.
 
-### 5.Explore and Explain Data
+### 5. Explore and Explain Data
 ---
 Once you have your data, it’s a good idea to get acquainted with it. You should show some summary statistics and visually examine your data. Don’t forget to write out some insights that you have gained along with your analysis.
 
@@ -90,7 +90,7 @@ More Resources:
 
 The National Institute of Standards and Technology’s (NIST) EDA Introduction.
 
-### 6.Conclusions
+### 6. Conclusions
 ---
 Finally we can wrap up the project. You can write a conclusion about your process and findings.
 
