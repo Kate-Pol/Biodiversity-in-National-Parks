@@ -20,7 +20,7 @@ Double-click on it to “unzip” the folder. It should contain several items:
 - Species_info.csv
 - Biodiversity.ipynb
 
-In the command line, navigate into the your venv folder, and activate Scripts folder. For required libraries you can use reference file. 
+In the command line, navigate into the your venv folder, and activate Scripts folder. For required libraries you can use ![requirements file](https://github.com/Kate-Pol/Biodiversity-in-National-Parks/blob/main/requirements.txt). 
 Then novigate into unzipped file directory.
 
 Type the following into the command line: jupyter notebook This should open a browser tab.
