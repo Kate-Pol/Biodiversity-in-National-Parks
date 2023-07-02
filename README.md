@@ -9,13 +9,22 @@ You will perform some data analysis on the conservation statuses of these specie
 
 After you perform your analysis, you will share your findings about the National Park Service.
 
+Project Objectives:
+- Complete a project to add to your portfolio
+- Use Jupyter Notebook to communicate findings
+- Run an analysis on a set of data
+- Become familiar with data analysis workflow
+
+Prerequisites:
+- Data Visualization
+- Communicating Data Science Findings
+
 ### 1. Setting Up The Project
 ---
 We have to download all nessessary files form the website, for farther review and data analysis.
 Download files from from biodiversity.zip and make sure our directory is set up for Jupyter notebook.
 
 Double-click on it to “unzip” the folder. It should contain several items:
-
 - Observations.csv
 - Species_info.csv
 - Biodiversity.ipynb
@@ -27,15 +36,16 @@ Type the following into the command line: jupyter notebook This should open a br
 
 ### 2. Setting up your Git Repository
 ---
-Create a new Git repository for this project.
+Create a new Git repository for this project, and connet it to the project folder on your machine. 
 
 If you need more guidance, review the GitHub Desktop article and additional help on this Git cheat sheet.
 
 Main components that you will want to include:
 
 - Jupyter Notebook
-
 - CSV data file(s)
+
+After work is completed we can create and update README.md file. 
 
 ### 3. Project Scoping
 ---
@@ -56,16 +66,16 @@ Hint:
 Open observations.csv and species_info.csv with pandas. The datasets provided have the following columns of data:
 
 species_info.csv:
+- category - class of animal
+- scientific_name - the scientific name of each species
+- common_name - the common names of each species
+- conservation_status - each species’ current conservation status
 
-category - class of animal
-scientific_name - the scientific name of each species
-common_name - the common names of each species
-conservation_status - each species’ current conservation status
 observations.csv:
+- scientific_name - the scientific name of each species
+- park_name - Park where species were found
+- observations - the number of times each species was observed at park
 
-scientific_name - the scientific name of each species
-park_name - Park where species were found
-observations - the number of times each species was observed at park
 Read over the pandas read_csv documentation for a refresher on how to load and look at the dataset.
 
 ### 5. Explore and Explain Data
@@ -76,7 +86,7 @@ You can start to build graphs from the data by first importing Matplotlib or sea
 
 Hint:
 
-Some components that you may want to include:
+Some components that you may want to include (but not limited):
 
 What is the distribution of conservation_status for animals?
 
