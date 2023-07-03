@@ -111,3 +111,13 @@ Main components that you will want to include:
 - What did you learn throughout the process?
 - Are the results what you expected?
 - What are the key findings and takeaways?
+
+### Those are some examples of the plotting the data: 
+
+<img src="https://github.com/Kate-Pol/Biodiversity-in-National-Parks/blob/main/png%20files/distribution%20of%20conservation%20status.PNG" width="550" height="250">
+
+<img src="https://github.com/Kate-Pol/Biodiversity-in-National-Parks/blob/main/png%20files/Conservation%20Status%20by%20Species.PNG" width="550" height="250">
+
+<img src="https://github.com/Kate-Pol/Biodiversity-in-National-Parks/blob/main/png%20files/Observations%20of%20Bats%20in%20a%20Week.PNG" width="550" height="250">
+
+
