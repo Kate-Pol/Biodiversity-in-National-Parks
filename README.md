@@ -1,4 +1,5 @@
-![]()
+![](https://github.com/Kate-Pol/Biodiversity-in-National-Parks/blob/main/png%20files/Biodiversity-in-National-Parks.png)
+
 ### Codecademy take home project
 ---
 ### Project Overview
