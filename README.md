@@ -113,7 +113,19 @@ Main components that you will want to include:
 - Are the results what you expected?
 - What are the key findings and takeaways?
 
-### Those are some examples of the plotting the data: 
+### Practice Tools 🛠
+---
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="30" height="30"/>&nbsp;
+  
+</div>
+
+### Those are some examples of the plotting the data
+---
 
 <img src="https://github.com/Kate-Pol/Biodiversity-in-National-Parks/blob/main/png%20files/distribution%20of%20conservation%20status.PNG" width="550" height="300">
 
