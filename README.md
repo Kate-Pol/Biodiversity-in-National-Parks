@@ -83,7 +83,7 @@ Read over the [pandas read_csv documentation](https://pandas.pydata.org/pandas-d
 ---
 Once you have your data, it’s a good idea to get acquainted with it. You should show some summary statistics and visually examine your data. Don’t forget to write out some insights that you have gained along with your analysis.
 
-You can start to build graphs from the data by first importing Matplotlib or seaborn and then making some plots!
+You can start to build graphs from the data by first importing [Matplotlib](https://matplotlib.org/stable/tutorials/introductory/pyplot.html) or [seaborn](https://seaborn.pydata.org/tutorial/introduction) and then making some plots!
 
 Hint:
 
@@ -99,7 +99,7 @@ Which species were spotted the most at each park?
 
 More Resources:
 
-The National Institute of Standards and Technology’s (NIST) EDA Introduction.
+The National Institute of Standards and Technology’s (NIST) [EDA Introduction](https://www.itl.nist.gov/div898/handbook/eda/section1/eda11.htm).
 
 ### 6. Conclusions
 ---
