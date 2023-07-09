@@ -113,6 +113,25 @@ Main components that you will want to include:
 - Are the results what you expected?
 - What are the key findings and takeaways?
 
+### 7. Create a Slide Deck
+---
+Once we’ve performed the analysis, we’re ready to create a slide deck. One of the most important parts of data analysis is being able to communicate the findings.
+
+We can create a slide deck using Google Drive, Microsoft Powerpoint, or some other presentation software.
+
+Your presentation should include the following:
+
+- A title slide
+- A section describing the data in species_info.csv. Be sure to include some (or all) of what you noticed while working through the notebook.
+- A section describing the significance calculations that you did for endangered status between different categories of species.
+- A recommendation for conservationists concerned about endangered species, based on your significance calculations
+- A section describing the sample size determination that you did for the foot and mouth disease study
+- All of the graphs that you created in the notebook
+
+More Resources:
+- ![How to use Google Slides](https://support.google.com/docs/answer/2763168?co=GENIE.Platform%3DDesktop&hl=en)
+- ![Create a presentation in PowerPoint](https://support.microsoft.com/en-us/office/create-a-presentation-in-powerpoint-422250f8-5721-4cea-92cc-202fa7b89617)
+
 ### Practice Tools 🛠
 ---
 
