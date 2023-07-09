@@ -39,7 +39,7 @@ Type the following into the command line: jupyter notebook This should open a br
 ---
 Create a new Git repository for this project, and connet it to the project folder on your machine. 
 
-If you need more guidance, review the GitHub Desktop article and additional help on this ![Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf).
+If you need more guidance, review the GitHub Desktop article and additional help on this [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf).
 
 Main components that you will want to include:
 
