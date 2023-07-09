@@ -77,7 +77,7 @@ observations.csv:
 - park_name - Park where species were found
 - observations - the number of times each species was observed at park
 
-Read over the pandas read_csv documentation for a refresher on how to load and look at the dataset.
+Read over the ![pandas read_csv documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html) for a refresher on how to load and look at the dataset.
 
 ### 5. Explore and Explain Data
 ---
