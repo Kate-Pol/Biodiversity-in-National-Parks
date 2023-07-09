@@ -39,7 +39,7 @@ Type the following into the command line: jupyter notebook This should open a br
 ---
 Create a new Git repository for this project, and connet it to the project folder on your machine. 
 
-If you need more guidance, review the GitHub Desktop article and additional help on this Git cheat sheet.
+If you need more guidance, review the GitHub Desktop article and additional help on this ![Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf).
 
 Main components that you will want to include:
 
@@ -54,7 +54,7 @@ Properly scoping your project will greatly benefit you; scoping creates structur
 
 Hint:
 
-Here is University of Chicago’s Data Science Project Scoping Guide.
+Here is ![University of Chicago’s Data Science Project Scoping Guide](http://www.datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide/).
 
 ### 4. Load the Data
 ---
