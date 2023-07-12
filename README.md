@@ -125,7 +125,6 @@ Your presentation should include the following:
 - A section describing the data in species_info.csv. Be sure to include some (or all) of what you noticed while working through the notebook.
 - A section describing the significance calculations that you did for endangered status between different categories of species.
 - A recommendation for conservationists concerned about endangered species, based on your significance calculations
-- A section describing the sample size determination that you did for the foot and mouth disease study
 - All of the graphs that you created in the notebook
 
 More Resources:
