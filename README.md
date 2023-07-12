@@ -132,6 +132,8 @@ More Resources:
 - ![How to use Google Slides](https://support.google.com/docs/answer/2763168?co=GENIE.Platform%3DDesktop&hl=en)
 - ![Create a presentation in PowerPoint](https://support.microsoft.com/en-us/office/create-a-presentation-in-powerpoint-422250f8-5721-4cea-92cc-202fa7b89617)
 
+I will be using for this part PowerPoint presentation. 
+
 ### Practice Tools 🛠
 ---
 
