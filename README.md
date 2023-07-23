@@ -20,24 +20,24 @@ Prerequisites:
 - Data Visualization
 - Communicating Data Science Findings
 
-### 1. Setting Up The Project
+### 1. Setting Up the Project
 ---
-We have to download all nessessary files form the website, for farther review and data analysis.
-Download files from from biodiversity.zip and make sure our directory is set up for Jupyter notebook.
+We need to download all necessary files form the website, for farther review and data analysis.
+Download files from biodiversity.zip and make sure our directory is set up for Jupyter notebook.
 
 Double-click on it to “unzip” the folder. It should contain several items:
 - Observations.csv
 - Species_info.csv
 - Biodiversity.ipynb
 
-In the command line, navigate into the your venv folder, and activate Scripts folder. For required libraries you can use ![requirements file](https://github.com/Kate-Pol/Biodiversity-in-National-Parks/blob/main/requirements.txt). 
-Then novigate into unzipped file directory.
+In the command line, navigate into your venv folder, and activate Scripts folder. For required libraries you can use ![requirements file](https://github.com/Kate-Pol/Biodiversity-in-National-Parks/blob/main/requirements.txt). 
+Then navigate into unzipped file directory.
 
 Type the following into the command line: jupyter notebook This should open a browser tab.
 
 ### 2. Setting up your Git Repository
 ---
-Create a new Git repository for this project, and connet it to the project folder on your machine. 
+Create a new Git repository for this project, and connect it to the project folder on your machine. 
 
 If you need more guidance, review the GitHub Desktop article and additional help on this [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf).
 
@@ -46,7 +46,7 @@ Main components that you will want to include:
 - Jupyter Notebook
 - CSV data file(s)
 
-After work is completed we can create and update README.md file. 
+After work is completed, we can create and update README.md file. 
 
 ### 3. Project Scoping
 ---
