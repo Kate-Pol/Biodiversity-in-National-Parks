@@ -60,8 +60,9 @@ Here is [University of Chicago’s Data Science Project Scoping Guide](http://ww
 ---
 You have been given two CSV files:
 
-species_info.csv - contains data about different species and their conservation status
+species_info.csv - contains data about different species and their conservation status;
 observations.csv - holds recorded sightings of different species at several national parks for the past 7 days.
+
 Hint:
 
 Open observations.csv and species_info.csv with pandas. The datasets provided have the following columns of data:
@@ -103,7 +104,7 @@ The National Institute of Standards and Technology’s (NIST) [EDA Introduction]
 
 ### 6. Conclusions
 ---
-Finally we can wrap up the project. You can write a conclusion about your process and findings.
+Finally, we can wrap up the project. You can write a conclusion about your process and findings.
 
 Hint:
 
