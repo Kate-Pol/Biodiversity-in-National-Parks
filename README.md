@@ -1,7 +1,7 @@
 ![](https://github.com/Kate-Pol/Biodiversity-in-National-Parks/blob/main/png%20files/Biodiversity-in-National-Parks.png)
 
 ### Codecademy take home project
-### Python | Data Analysis
+### Python | Data Analysis | Data Visualization
 ---
 ### Project Overview
 ---
