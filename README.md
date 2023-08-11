@@ -12,14 +12,16 @@ You will perform some data analysis on the conservation statuses of these specie
 After you perform your analysis, you will share your findings about the National Park Service.
 
 Project Objectives:
-- Complete a project to add to your portfolio
+- Complete a project to add to the portfolio
 - Use Jupyter Notebook to communicate findings
 - Run an analysis on a set of data
 - Become familiar with data analysis workflow
+- Learn and practice python libraries
 
 Prerequisites:
 - Data Visualization
 - Communicating Data Science Findings
+- Data analysis
 
 ### 1. Setting Up the Project
 ---
