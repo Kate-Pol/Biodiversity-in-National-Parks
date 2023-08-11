@@ -49,7 +49,7 @@ Main components that you will want to include:
 - Jupyter Notebook
 - CSV data file(s)
 
-After work is completed, we can create and update README.md file. 
+After work is completed, we can create and update README.md file. In additon at the end of README.md file we can add few snipshot of the data visualization, for better understanding which work was performed.   
 
 ### 3. Project Scoping
 ---
